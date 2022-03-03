@@ -43,3 +43,4 @@ app.MapRazorPages();
 
 app.Run();
 
+//I had added a startup class upon reading I could if I wanted to but then noticed the program.cs contains that logic so I deleted it 

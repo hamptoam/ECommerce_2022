@@ -19,7 +19,4 @@ public class ApplicationDbContext : IdentityDbContext
     }
 }
 
-//using preview version of Visual Studio 2022, if asked for bugs mention false errors being thrown here with nothing popping up when trying to refactor
-
-
-//Will have more models but trying to set up base functionalities first 
+//Will have more models and data sets but trying to set up base functionalities first 
