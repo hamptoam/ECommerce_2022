@@ -8,7 +8,7 @@ namespace ECommerce_2022.Models
 		public int ID { get; set; }
 		public string lasName { get; set; }
 		public string firstName { get; set; }
-		public string Email { get; set; }
+		public string email { get; set; }
 		public bool isRewardsMember { get; set; }
 		public bool isGuest { get; set; }
 		public DateTime EnrollmentDate { get; set; }
@@ -22,6 +22,7 @@ namespace ECommerce_2022.Models
 
 		public User()
 		{
+
 		}
 	}
 }
